@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:text="@string/separar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="150dp"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:textSize="50dp"
+        />
+    <TextView
+        android:text="@string/seleccionar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:textSize="20dp"
+         />
+
+    <Button
+
+        android:text="@string/seleccionarTicket"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="20dp"
+        android:layout_marginLeft="20dp"
+        android:textStyle="bold"
+        android:layout_gravity="center"
+        android:layout_marginTop="15dp"
+        android:id="@+id/btn_registrar_ticket"
+        android:textAllCaps="false"
+        android:background="@color/colorBarra"
+        android:textColor="@color/blanco"
+
+        />
+    <Button
+        android:text="@string/generarticket"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="20dp"
+        android:layout_marginLeft="20dp"
+        android:textStyle="bold"
+        android:layout_gravity="center"
+        android:layout_marginTop="15dp"
+        android:id="@+id/btn_confirmar"
+        android:textAllCaps="false"
+        android:background="@color/colorBarra"
+        android:textColor="@color/blanco"
+                />
+
+</LinearLayout>

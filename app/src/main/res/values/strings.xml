@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ComedorEstudiantil</string>
+    <string name="Login">Login</string>
+    <string name="Register">Register</string>
+    <string name="correo">Ingrese Correo UNMSM</string>
+    <string name="password">Ingrese Constraseña</string>
+    <string name="codigo">Ingrese Código de Alumno</string>
+    <string name="consultar">Consultar Menú</string>
+    <string name="separar">Reservar Ticket</string>
+    <string name="programacion">Programacion Menu</string>
+    <string name="seleccionar">Seleccionar Grupo Menu</string>
+    <string name="seleccionarTicket">Seleccionar Turno</string>
+    <string name="generarticket">Generar Ticket</string>
+
+</resources>
